@@ -21,10 +21,6 @@ sidebar:
 
 ## Ramakrishna Vivekananda Ashrama, Yelahanka - Bengaluru
 
-Certainly! Here's a sample content for the home page of the Ramakrishna Vivekananda Ashrama in Yelahanka, Bengaluru:
-
----
-
 **Welcome to Ramakrishna Vivekananda Ashrama, Yelahanka, Bengaluru**
 
 ![Sharda Maa, Ramakrishna Paramhamsa, Swami Vivekananda](/assets/images/rkm-trinity.jpg)
