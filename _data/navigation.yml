@@ -2,6 +2,8 @@
 main:
   - title: "Event Gallery"
     url: '/gallery/'
+  - title: "Disciples of Ramakrishna"
+    url: '/Desciples-of-Ramakrishna/'
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

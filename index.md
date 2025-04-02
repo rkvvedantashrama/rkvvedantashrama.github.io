@@ -70,4 +70,6 @@ Whatsapp: 92428-86364
 
 Thank you for visiting Ramakrishna Vivekananda Ashrama, Yelahanka. May your spiritual journey be blessed with peace, love, and enlightenment.
 
+![](/assets/images/Quotation1.jpg){:align="center"}
+
 
